@@ -1,5 +1,5 @@
-latitude,longitude,elevation,utc_offset_seconds,timezone,timezone_abbreviation
-45.377853,-75.63379,74.0,0,GMT,GMT
+
+
 
 time,temperature_2m (°C),relative_humidity_2m (%),apparent_temperature (°C),precipitation (mm),wind_speed_10m (km/h),shortwave_radiation (W/m²)
 2024-12-09T00:00,-6.0,83,-10.8,0.00,11.4,0.0
